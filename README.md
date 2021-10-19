@@ -6,7 +6,7 @@
 
 🧳 Portfolio:
 
-        🕺 Own Projects FULL STACK:
+                🕺 Own Projects FULL STACK:
 
               MyTinerary -  Web Repository: https://github.com/rafaelmian1/mytinerary-mian 
                             Mobile Repository: https://github.com/rafaelmian1/mytinerary-mian-mobile
