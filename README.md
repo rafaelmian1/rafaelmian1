@@ -1,16 +1,22 @@
-### Hi there 👋
+👋 Hi, I’m Rafael Mian
 
-<!--
-**rafaelmian1/rafaelmian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in working as full stack remote developer.
 
-Here are some ideas to get you started:
+📫 How to reach me https://www.linkedin.com/in/rafael-mian-24212920a/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧳 Portfolio:
+
+        🕺 Own Projects FULL STACK:
+
+              MyTinerary -  Web Repository: https://github.com/rafaelmian1/mytinerary-mian 
+                            Mobile Repository: https://github.com/rafaelmian1/mytinerary-mian-mobile
+                            WebApp: https://my-tinerary-mian.herokuapp.com/
+
+        🧑‍🤝‍🧑 Groupal Projects FULL STACK:
+
+              Nosy Trivia Game - Web Repository: https://github.com/rafaelmian1/nosy
+                                 WebApp: https://nosygame.herokuapp.com/
+
+              Quickly Food E-commerce - Web Repository: https://github.com/rafaelmian1/quickly-food
+                                        Mobile Repository: https://github.com/rafaelmian1/mytinerary-mian-mobile
+                                        WebApp: https://quickly-food.herokuapp.com/
