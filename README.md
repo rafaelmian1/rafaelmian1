@@ -2,7 +2,7 @@
 
 👀 I’m interested in working as full stack remote developer.
 
-📫 How to reach me https://www.linkedin.com/in/rafael-mian-24212920a/
+📫 How to reach me https://www.linkedin.com/in/rafaelmian1
 
 🧳 Portfolio:
 
