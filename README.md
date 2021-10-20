@@ -6,17 +6,16 @@
 
 🧳 Portfolio:
 
-                🕺 Own Projects FULL STACK:
+  MyTinerary:
+    - WebApp: https://my-tinerary-mian.herokuapp.com
+    - Web Repository: https://github.com/rafaelmian1/mytinerary-mian 
+    - Mobile Repository: https://github.com/rafaelmian1/mytinerary-mian-mobile
 
-              MyTinerary -  Web Repository: https://github.com/rafaelmian1/mytinerary-mian 
-                            Mobile Repository: https://github.com/rafaelmian1/mytinerary-mian-mobile
-                            WebApp: https://my-tinerary-mian.herokuapp.com/
+  Trivia Game:
+    - WebApp: https://nosygame.herokuapp.com/
+    - Web Repository: https://github.com/rafaelmian1/nosy
 
-        🧑‍🤝‍🧑 Groupal Projects FULL STACK:
-
-              Nosy Trivia Game - Web Repository: https://github.com/rafaelmian1/nosy
-                                 WebApp: https://nosygame.herokuapp.com/
-
-              Quickly Food E-commerce - Web Repository: https://github.com/rafaelmian1/quickly-food
-                                        Mobile Repository: https://github.com/rafaelmian1/mytinerary-mian-mobile
-                                        WebApp: https://quickly-food.herokuapp.com/
+  Quickly Food E-commerce:
+    - WebApp: https://quickly-food.herokuapp.com/
+    - Web Repository: https://github.com/rafaelmian1/quickly-food
+    - Mobile Repository: https://github.com/rafaelmian1/mytinerary-mian-mobile
