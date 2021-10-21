@@ -3,7 +3,7 @@
 
 👀 I’m interested in working as full stack remote developer.
 
-📫 How to reach me https://www.linkedin.com/in/rafaelmian1
+📫 You can reach me here: https://www.linkedin.com/in/rafaelmian1
 
 🧳 Portfolio:
 
