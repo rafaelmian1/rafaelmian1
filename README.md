@@ -12,7 +12,7 @@ MyTinerary:
 >- Web Repository: https://github.com/rafaelmian1/mytinerary-mian 
 >- Mobile Repository: https://github.com/rafaelmian1/mytinerary-mian-mobile
 
-Trivia Game: 
+Nosy Trivia Game: 
 >- WebApp: https://nosygame.herokuapp.com/
 >- Web Repository: https://github.com/rafaelmian1/nosy
 
