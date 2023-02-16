@@ -9,8 +9,8 @@
 
 MyTinerary: 
 >- WebApp: https://mytinerary.rafaelmiandev.com 
->- Web Repository: https://github.com/rafaelmian1/mytinerary-mian 
->- Mobile Repository: https://github.com/rafaelmian1/mytinerary-mian-mobile
+>- Web Repository: https://github.com/rafaelmian1/mytinerary 
+>- Mobile Repository: https://github.com/rafaelmian1/mytinerary-mobile
 
 Nosy Trivia Game: 
 >- WebApp: https://nosy.rafaelmiandev.com/
