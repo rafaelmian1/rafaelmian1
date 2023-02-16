@@ -8,15 +8,15 @@
 🧳 Last Projects:
 
 MyTinerary: 
->- WebApp: https://my-tinerary-mian.herokuapp.com 
+>- WebApp: https://mytinerary.rafaelmiandev.com 
 >- Web Repository: https://github.com/rafaelmian1/mytinerary-mian 
 >- Mobile Repository: https://github.com/rafaelmian1/mytinerary-mian-mobile
 
 Nosy Trivia Game: 
->- WebApp: https://nosygame.herokuapp.com/
+>- WebApp: https://nosy.rafaelmiandev.com/
 >- Web Repository: https://github.com/rafaelmian1/nosy
 
 Quickly Food E-commerce: 
->- WebApp: https://quickly-food.herokuapp.com/
+>- WebApp: https://quickly-food.rafaelmiandev.com/
 >- Web Repository: https://github.com/rafaelmian1/quickly-food 
 >- Mobile Repository: https://github.com/rafaelmian1/mytinerary-mian-mobile
